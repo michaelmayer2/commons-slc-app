@@ -1,4 +1,4 @@
-libname trial "/tmp/trial" access=readonly;
+libname trial "%sysget(TRIAL_PATH)" access=readonly;
 
 /**
  * Mean response by treatment arm

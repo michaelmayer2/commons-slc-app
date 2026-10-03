@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app:app"
+  },
+  "python": {
+    "version": "3.13.13",
+    "package_manager": {
+      "name": "pip",
+      "version": "26.0.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "environment": {
+    "python": {
+      "requires": "~=3.13.0"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "c848d422ce488888e7fccd61d2b6d423"
+    },
+    ".gitignore": {
+      "checksum": "7a815bd7ef5864f3c90159de00ed405a"
+    },
+    ".python-version": {
+      "checksum": "789ee353b44223a8ed8031aa190631dd"
+    },
+    "CLAUDE.md": {
+      "checksum": "6464c8caa55019067e9fca306037aeee"
+    },
+    "README.md": {
+      "checksum": "30fbe37119ab8d29e21b7c1f86894636"
+    },
+    "app.py": {
+      "checksum": "ed527b448b3da0f0a5cc4c7a7f8bd6b8"
+    },
+    "data/visits.csv": {
+      "checksum": "5592866fa94430c09d15cb056c020edc"
+    },
+    "measures/trial.sas": {
+      "checksum": "76e36e3dd619c9b0371a93ed5fe009b4"
+    }
+  }
+}

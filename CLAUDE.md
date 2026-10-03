@@ -15,7 +15,7 @@ shiny run app.py                   # app.py exposes `app = commons.ui.app(agent)
 shiny run --reload app.py          # dev mode
 ```
 
-There are no tests, linter, or build step in this repo. Running requires AWS Bedrock credentials (`AWS_*` env vars) and a licensed Altair SLC install (`WPSHINE` license env var).
+There are no tests, linter, or build step in this repo. Running requires AWS Bedrock credentials (`AWS_*` env vars) and a licensed Altair SLC install (`WPSHOME` license env var).
 
 ## Architecture
 

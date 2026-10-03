@@ -22,7 +22,7 @@ against the same data.
 ## Requirements
 
 - Python 3.13
-- Altair SLC installed and licensed (the `WPSHINE` licence environment variable)
+- Altair SLC installed and licensed (the `WPSHOME` licence environment variable)
 - AWS credentials with Bedrock access to `us.anthropic.claude-sonnet-5`
 
 ## Setup and running

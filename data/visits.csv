@@ -1,0 +1,13 @@
+subject,arm,week,response
+101,Placebo,0,41
+101,Placebo,12,46
+102,Placebo,0,38
+102,Placebo,12,40
+103,Placebo,0,45
+103,Placebo,12,52
+104,Active,0,40
+104,Active,12,58
+105,Active,0,36
+105,Active,12,49
+106,Active,0,43
+106,Active,12,61

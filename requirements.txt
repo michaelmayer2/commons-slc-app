@@ -10,7 +10,7 @@ charset-normalizer==3.5.2
 chatlas==0.23.0
 click==8.5.0
 commonmark==0.9.2
-commons @ git+https://github.com/michaelmayer2/commons@981ee2b6f14326dda1deb0e92289035affeb2d23#subdirectory=pkg-py
+commons @ git+https://github.com/michaelmayer2/commons@69c892d94eaf913c6600e887257a2eed829dec74#subdirectory=pkg-py
 defusedxml==0.7.1
 docstring_parser==0.18.0
 duckdb==1.5.6
